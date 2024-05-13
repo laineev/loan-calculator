@@ -1,0 +1,5 @@
+C:\Users\Ellaine\Documents\Visual Studio 2013\Projects\WebSite5\DataHelper1\bin\Debug\DataHelper1.dll
+C:\Users\Ellaine\Documents\Visual Studio 2013\Projects\WebSite5\DataHelper1\bin\Debug\DataHelper1.pdb
+C:\Users\Ellaine\Documents\Visual Studio 2013\Projects\WebSite5\DataHelper1\obj\Debug\DataHelper1.dll
+C:\Users\Ellaine\Documents\Visual Studio 2013\Projects\WebSite5\DataHelper1\obj\Debug\DataHelper1.pdb
+C:\Users\Ellaine\Documents\Visual Studio 2013\Projects\WebSite5\DataHelper1\obj\Debug\DataHelper1.csprojResolveAssemblyReference.cache
